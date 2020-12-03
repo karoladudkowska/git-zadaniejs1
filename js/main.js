@@ -1,3 +1,3 @@
-const name = 'Karolina';
-const surname ='Dudkowska';
+let name = 'Karolina';
+let surname ='Dudkowska';
 

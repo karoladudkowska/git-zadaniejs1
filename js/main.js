@@ -1,2 +1,2 @@
 const name = 'Karolina';
-const surname = 'Dudkowska';
+const surname ='Dudkowska';

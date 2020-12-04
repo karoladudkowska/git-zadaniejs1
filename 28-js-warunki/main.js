@@ -1,9 +1,7 @@
 let amountOfProducts = 12;
-if (amountOfProducts > 10)
-{
+if (amountOfProducts > 10) {
     console.log('Podana liczba jest większa od 10');
 }
-else
-{
+else {
     console.log('Podana liczba nie jest większa od 10');
 }

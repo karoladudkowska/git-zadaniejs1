@@ -1,0 +1,26 @@
+
+body {
+background-color: yellowgreen;
+}
+
+h1 {
+color: green;
+}
+
+p {
+color: yellow;
+}
+
+#usun {
+background-color: orange;
+}
+
+button {
+height: 50px;
+width: 80px;
+background: #0bdf00;
+border: 2px solid rgba(33, 68, 72, 0.59);
+}
+
+
+

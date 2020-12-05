@@ -2,16 +2,14 @@ let num1 = 2;
 let num2 = 5;
 
 
-let result = function checkingNumbers() {
+function checkingNumbers(number1, number2) {
 
-    if (num1 > num2) {
+    if (number1 > number2) {
         console.log(num1);
     }
-
-    else if (num1 < num2) {
+    else if (number1 < number2) {
         console.log(num2)
     }
 }
+checkingNumbers(num1, num2);
 
-
-function checkingNumbers(num1, num2);

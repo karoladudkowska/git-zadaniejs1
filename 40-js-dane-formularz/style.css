@@ -1,0 +1,21 @@
+body {
+    background-color: #4c4ce7;
+}
+#form {
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    display: block;
+    
+    }
+button {
+    display: block;
+    margin: 0 auto;
+    background-color: green;
+    text-align: center;
+}
+
+#container {
+    display: block;
+    text-align: center;
+}

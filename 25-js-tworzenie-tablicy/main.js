@@ -1,1 +1,1 @@
-let Products = [1, 17, 9, 13];
+let products = [1, 17, 9, 13];
